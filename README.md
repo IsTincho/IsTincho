@@ -1,6 +1,6 @@
 ### Hi, I'm Martín 👋
 
-Full-stack developer from Rosario, Argentina (GMT-3). I build products end to end and run them in production.
+Full-stack developer based in Argentina (GMT-3), working remotely. I build products end to end and run them in production.
 
 **Stack:** React · TypeScript · Node.js / Express · MongoDB · MySQL · Cloudflare · Railway
 
